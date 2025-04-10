@@ -1,0 +1,6 @@
+/templates
+    game.html        # Main game UI
+    summary.html     # Post-game screen
+/static/images       # Backgrounds
+app.py               # Flask server
+game6.py             # Game logic (neck turns)
